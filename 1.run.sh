@@ -27,3 +27,7 @@ some=test1
 echo $some
 some="test1 test2"
 echo $some
+
+
+#####
+## 1. edited
